@@ -9,12 +9,6 @@ A responsive and user-friendly web application that provides real-time weather u
 - 🎨 **Responsive UI**: Works seamlessly on desktops, tablets, and mobile devices.
 - 📈 **Extensible Design**: Easy to add features like forecasts, weather maps, or user accounts.
 
-## Demo
-
-![Weather WebApp Screenshot](assets/demo-screenshot.png)
-
-*(Replace with an actual screenshot of your application)*
-
 ## Tech Stack
 
 - **Backend**: Python (Flask or similar micro-framework)
